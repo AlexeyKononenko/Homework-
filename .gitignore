@@ -1,0 +1,5 @@
+*.html_old
+*_backup
+*.zip
+*.db
+*.DS_Store
